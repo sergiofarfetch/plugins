@@ -1,4 +1,9 @@
-plugins
+Plugins
 =======
 
-plugins
+Javascript free plugins for commercial use.
+
+
+Browser
+====
+
